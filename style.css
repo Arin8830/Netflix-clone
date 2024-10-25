@@ -1,7 +1,7 @@
 
 
 .main {
-    background-image: url("./background.jpg");
+    background-image: url("background.jpg");
     height: 70vh;
     background-position: center center;
     background-size: max(1200px, 100vw);
